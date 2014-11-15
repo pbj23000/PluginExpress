@@ -25,6 +25,7 @@ import org.restexpress.pipeline.Postprocessor;
  *
  * See <a href="http://tools.ietf.org/html/draft-ietf-websec-x-frame-options-01">X-Frame-Options</a>
  */
+/*
 public class XFrameOptionsHeaderPostprocessor
 implements Postprocessor
 {
@@ -38,3 +39,4 @@ implements Postprocessor
         response.addHeader(XFRAMEOPTIONS, "deny");
     }
 }
+*/
