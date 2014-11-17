@@ -56,7 +56,7 @@ private static final String X_FRAME_OPTIONS_HEADER = "X-Frame-Options";
        private String allowFromOrigin = null;
 
        public XFrameOptionsHeaderPostprocessor(String allowFromOrigin) {
-           
+
        }
 
    }
